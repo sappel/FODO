@@ -2,7 +2,7 @@
 
 ## Installation
 
-create runtime environemt
+create runtime environment
 ```
 conda env create -f Environment.yml
 ```
