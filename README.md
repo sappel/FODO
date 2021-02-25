@@ -10,6 +10,7 @@ conda env create -f Environment.yml
 fetch thin-lens implementation
 ```
 git clone https://github.com/cc97nitu/ThinLens.git
+git checkout 25.02.21
 ```
 
 install ThinLens package
